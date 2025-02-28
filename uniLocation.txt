@@ -1,0 +1,23 @@
+Algoma University,46.5011062,-84.2879055
+Brock University,43.1184923,-79.24780419999999
+Carleton University,45.3833626,-75.6943225
+University of Guelph,43.5343291,-80.23278479999999
+Lakehead University,48.420957,-89.2621479
+Laurentian University,46.4631487,-80.9704367
+McMaster University,43.2622445,-79.9202861
+Nipissing University,46.3461977,-79.488468
+OCAD University,43.6532235,-79.391517
+Ontario Tech University,43.9450912,-78.89480390000001
+University of Ottawa,45.4244969,-75.6864737
+Queen's University,44.2282938,-76.4949826
+Royal Military College of Canada,44.2313455,-76.46701
+Ryerson University,43.65829859999999,-79.3807846
+University of Toronto - St. George Campus,43.660849,-79.3954943
+University of Toronto at Scarborough,43.7825084,-79.1853174
+University of Toronto at Mississauga,43.54968299999999,-79.66403489999999
+Trent University,44.3574563,-78.2896482
+University of Waterloo,43.4729791,-80.54010269999999
+Western University,43.0075955,-81.27539999999999
+Wilfrid Laurier University,43.471959,-80.528847
+University of Windsor,42.3077143,-83.0684358
+York University,43.7750059,-79.4942155
